@@ -10,9 +10,19 @@ p {
 h1 {
     text-align: center; 
 }
-body {
-    background-color: #CCCC;
-}
+
 em strong {
     color: red;
+}
+
+.itens {
+    font-style: italic
+}
+
+.principal {
+    background-color: #CCCC;
+}
+
+h2 {
+    text-align: center
 }
