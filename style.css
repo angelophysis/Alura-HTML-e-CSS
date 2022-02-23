@@ -21,8 +21,24 @@ em strong {
 
 .principal {
     background-color: #CCCC;
+    padding: 20px;
 }
 
 h2 {
     text-align: center
+}
+
+.beneficios {
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagemBeneficios {
+    width: 50%
 }
